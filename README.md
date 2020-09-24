@@ -32,8 +32,9 @@ The logs will be created and this need a virtual envirnoment. The project is imp
 
 
 How to run a project.
-1.Go to training folder 
-2.python3 train.py \
+1.Install all the libary files from the requirement.txt
+2.Go to training folder 
+3.python3 train.py \
   --bottleneck_dir=logs/bottlenecks \
   --how_many_training_steps=2000 \
   --model_dir=inception \
@@ -48,10 +49,18 @@ DATASET: https://www.kaggle.com/jonathanoheix/face-expression-recognition-datase
 
 The training summary,inception model will genertaed through the train.py.
 
-3.Training log folder obtained should be copy and pasted in the emotion app folder logs.
+4.Training log folder obtained should be copy and pasted in the emotion app folder logs.
 That is Copy training\logs(files and folders which are obtained while running the train.py) paste in emotion_recognition_musicplayerusing_Django\emotion_app\emotion_app\logs
 
-4. 
-
-
+5. To Run the foolowing commands 
+  1.Tensorboard == >tensorboard --logdir= " "
+  2.Run in terminal == > Got to the folder name using django E:\emotion_recognition_musicplayerusing_Django\python manage.py migrate 
+                                                             E:\emotion_recognition_musicplayerusing_Django\python manage.py migration 
+  3.Run python==> E:\emotion_recognition_musicplayerusing_Django\manage.py
+  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
 
