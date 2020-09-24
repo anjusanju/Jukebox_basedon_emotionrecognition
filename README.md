@@ -32,7 +32,8 @@ The logs will be created and this need a virtual envirnoment. The project is imp
 
 
 How to run a project.
-python3 train.py \
+1.Go to training folder 
+2.python3 train.py \
   --bottleneck_dir=logs/bottlenecks \
   --how_many_training_steps=2000 \
   --model_dir=inception \
