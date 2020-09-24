@@ -48,6 +48,10 @@ DATASET: https://www.kaggle.com/jonathanoheix/face-expression-recognition-datase
 
 The training summary,inception model will genertaed through the train.py.
 
+3.Training log folder obtained should be copy and pasted in the emotion app folder logs.
+That is Copy training\logs(files and folders which are obtained while running the train.py) paste in emotion_recognition_musicplayerusing_Django\emotion_app\emotion_app\logs
+
+4. 
 
 
 
