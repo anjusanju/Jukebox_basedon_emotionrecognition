@@ -57,6 +57,7 @@ That is Copy training\logs(files and folders which are obtained while running th
   2.Run in terminal == > Got to the folder name using django E:\emotion_recognition_musicplayerusing_Django\python manage.py migrate 
                                                              E:\emotion_recognition_musicplayerusing_Django\python manage.py migration 
   3.Run python==> E:\emotion_recognition_musicplayerusing_Django\manage.py
+  4.The link obtained with local host,open it in the browser.(http://127.0.0.1:8000/) to start the server.
   
                                                              
                                                              
