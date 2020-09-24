@@ -1,1 +1,1 @@
-After the traiinig the files anfd folders which arec obtained should be copy and pasted.
+After the traiinig the files and folders which are obtained(which ever the log files obtained should be here) should be copy and pasted.
